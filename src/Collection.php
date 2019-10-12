@@ -1,7 +1,7 @@
 <?php
 
 
-namespace DigitalAtlas\Collection;
+namespace Pmallek\Collection;
 
 use ArrayAccess;
 use ArrayIterator;
