@@ -89,6 +89,16 @@ class Collection implements ArrayAccess
     }
 
     /**
+     * @param callable $callable
+     */
+    public function each(callable $callable)
+    {
+        foreach ($this->items as $item) {
+            $callable($item);
+        }
+    }
+
+    /**
      * @param mixed $default
      *
      * @return mixed
