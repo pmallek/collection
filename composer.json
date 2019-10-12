@@ -1,0 +1,13 @@
+{
+  "name": "pmallek/collection",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Piotr Małłek",
+      "email": "pmallek@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^5.6"
+  }
+}
