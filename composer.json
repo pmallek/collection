@@ -1,6 +1,10 @@
 {
   "name": "pmallek/collection",
   "license": "MIT",
+  "description": "Simple Collection class based on Laravel but without any dependencies and supports PHP 5.6+.",
+  "keywords": [
+    "collection"
+  ],
   "authors": [
     {
       "name": "Piotr Małłek",
